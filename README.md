@@ -1,6 +1,6 @@
 ![logo](https://github.com/kabboimran7/kabboimran7/blob/main/my_banner.png)
 <h1 align="center">Hi 👋, I'm Mohammad Imran Kabbo</h1>
-<h3 align="center">An undergraduate student at Brac University with a deep passion for mathematics, statistics and computer science</h3>
+<h3 align="center">An undergraduate student at Brac University with a deep passion for mathematics, statistics and computer science</h3> 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
